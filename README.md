@@ -32,11 +32,11 @@ Scheduler: CosineAnnealingLR
 If you find this code to be useful for your research, please consider citing.
 
 ```
-@article{zhang2023convolution,
+@article{zhang2022convolution,
   author={Zhang, Junjie and Meng, Zhe and Zhao, Feng and Liu, Hanqiang and Chang, Zhenhui},
   journal={IEEE Geoscience and Remote Sensing Letters}, 
   title={Convolution transformer mixer for hyperspectral image classification}, 
-  year={2023},
+  year={2022},
   volume={},
   number={},
   pages={1--5},
