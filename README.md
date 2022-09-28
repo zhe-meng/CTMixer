@@ -25,12 +25,25 @@ Optimizer: Adam (weight_decay=1e-4)
 
 Scheduler: CosineAnnealingLR
 
+# Paper
+
+[Convolution transformer mixer for hyperspectral image classification](https://ieeexplore.ieee.org/document/9903640)
+
+If you find this code to be useful for your research, please consider citing.
+
+```
+@article{zhang2023convolution,
+  author={Zhang, Junjie and Meng, Zhe and Zhao, Feng and Liu, Hanqiang and Chang, Zhenhui},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={Convolution transformer mixer for hyperspectral image classification}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1--5},
+  doi={10.1109/LGRS.2022.3208935}}
+```
 
 ## Other
-
-We encourage researchers to cite our latest work. 
-
-We encourage researchers to achieve different comparative experiments (papers) within a code framework, to achieve a fair comparison.
 
 If you encounter any problems reproducing the code, please do not hesitate to contact us.
 
